@@ -1,0 +1,4 @@
+wordpress:
+  image: theupscale/upscaleweb
+  ports:
+    - 80:80
